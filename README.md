@@ -3,3 +3,13 @@
 - The best thing about a boolean is even if you are wrong, you are only off by a bit           **- Anonymous**
 - There are 10 kinds of people in the world — those who understand binary and those who don't  **- Anonymous**
 - Before software can be reusable it first has to be usable.                                   **- Ralph Johnson**
+- First, solve the problem. Then, write the code.                                              **- John Johnson**
+- Java is to JavaScript what Car is to Carpet.                                                 **- Chris Heilmann**
+- Perl – The only language that looks the same before and after RSA encryption.                **- Keith Bostic**
+- You are the Semicolon to my Statements.
+- Measuring Programming progress by lines of code is like measuring aircraft building by weight.**- Bill Gates**
+- One man's constant is another man's variable.                                                 **- Allan Perlis**
+- Everyone should learn how to code, it teaches you how to think.                               **- Steve Jobs**
+- I would love to change the world, but they won't give me the source code.
+- Its all talk until the code runs.                                                             **- Ward Cunningham**
+- while(!(succeed=try()));
