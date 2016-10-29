@@ -3,3 +3,4 @@
 - The best thing about a boolean is even if you are wrong, you are only off by a bit           **- Anonymous**
 - There are 10 kinds of people in the world — those who understand binary and those who don't  **- Anonymous**
 - Before software can be reusable it first has to be usable.                                   **- Ralph Johnson**
+- Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.                                                                    **- Eric S. Raymond**
