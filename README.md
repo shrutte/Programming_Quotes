@@ -5,3 +5,4 @@
 - Before software can be reusable it first has to be usable.                                   **- Ralph Johnson**
 - Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.                                                                    **- Eric S. Raymond**
 - Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. **- Martin Golding**
+- Don't worry if it doesn't work right. If everything did, you'd be out of a job. **- Mosher's Law of Software Engineering**
